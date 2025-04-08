@@ -1,0 +1,349 @@
+fileFormatVersion: 2
+guid: 4c2e8110fa35e4a4fbcf958dc5d52c13
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ASUS_ROG_Strix_X470-I_11AAA
+    second: {fileID: 2100000, guid: f7f68def166a2ac4981764e73eb4477b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acruel_Weiss
+    second: {fileID: 2100000, guid: 9798d8dbfcd037c45b543c6614ad4229, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Battery.001
+    second: {fileID: 2100000, guid: 620a7bd3333376241ac349b118f214f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blau_plastik.001
+    second: {fileID: 2100000, guid: 0dde0fc63be75d946b52421d33ed4bc6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blau_plastik.USB
+    second: {fileID: 2100000, guid: 4899f9f4fb23eb742a99e48dfa2e2035, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EK_Schwarz
+    second: {fileID: 2100000, guid: 8c99c0d784ea71d4384415f68f50290a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ELKO_Gold
+    second: {fileID: 2100000, guid: 8ee881698b3868345b9fcd9773441a73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gold
+    second: {fileID: 2100000, guid: 04cadf099a083814ba0c1385dbbbafeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gold.Steel
+    second: {fileID: 2100000, guid: 1a97e591e313cd54788cb3fe73fa6cf4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gold.Steel.001
+    second: {fileID: 2100000, guid: ea75090817a23d04b8afe70c674e589f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gold.Steel.002
+    second: {fileID: 2100000, guid: c31b9e9efa4743041b46d3b3bd40ce5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gold.Steel.003
+    second: {fileID: 2100000, guid: f8ddf2d89fb7b8e4e8ad93f79e1b6f9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gold.Steel.004
+    second: {fileID: 2100000, guid: 3de913972d502c94a9352ed5ff97bfd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grau
+    second: {fileID: 2100000, guid: f9bb20d73987652438fba078b7876b8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grau2
+    second: {fileID: 2100000, guid: 92dc69247518e164b8cbd4caee506cc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Gr\xFCn_plastik.001"
+    second: {fileID: 2100000, guid: 505515339e809e445abe7ae3e529d14b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gumi_grau
+    second: {fileID: 2100000, guid: 55fd296f579c21d4cb8dc58f3310e0b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: I0zvKoe4okgHkE3s_setting_fff_1_90_end_1000-edit
+    second: {fileID: 2100000, guid: 04c1cbd694f525348aa4e7f7312123a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "LED_Gr\xFCn"
+    second: {fileID: 2100000, guid: 1032ae40a67f90a45b0458cee82fda3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "LED_Gr\xFCn.001"
+    second: {fileID: 2100000, guid: 626b971bfd8667441bbfed95068d7a06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LED_Rot
+    second: {fileID: 2100000, guid: 04ec18af123cf1d488ef02a61cdf0748, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lot
+    second: {fileID: 2100000, guid: b9990a1bbf822d54480dfc8819b07f62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mainboard_oben
+    second: {fileID: 2100000, guid: f1d69b6e57aa7f04083f3d01816288ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mainboard_oben.004
+    second: {fileID: 2100000, guid: 0e78960a3be40334182f1cc96a3022a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mainboard_oben.Metal.002
+    second: {fileID: 2100000, guid: a10858281d234c648bcd6016113067db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mainboard_oben.Metal.01
+    second: {fileID: 2100000, guid: 64d62f509a6dbce428b1b746289df1c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mainboard_oben.original
+    second: {fileID: 2100000, guid: c634164d323f69f47a60247a341a662d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mainboard_unten
+    second: {fileID: 2100000, guid: 21683e43240e1f940b086e657c181f04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 27e5001c01a02074984d2d97d040040d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 07efdeec48a294f43887cff8ac4a74f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastik
+    second: {fileID: 2100000, guid: 96fb3c04412aeb74ebac8124775c2dbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastik_grau
+    second: {fileID: 2100000, guid: bf91cbaae39153a4daead19416498e56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Platinen_Rand
+    second: {fileID: 2100000, guid: 0c62a320a3b19c044b8384ea32f146e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RGB
+    second: {fileID: 2100000, guid: 408438928732f6842b3cac81b73a2507, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rot1
+    second: {fileID: 2100000, guid: 0d1877bae5bd308489b47f475a24de45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rot_plastik.001
+    second: {fileID: 2100000, guid: 3ada28810beb62f4fac416b41aa2c766, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Schwarz_plastik.001
+    second: {fileID: 2100000, guid: 957c04d233a80bc4788cc4ecb0afd141, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Schwarz_plastik.002
+    second: {fileID: 2100000, guid: 9eb00d319a154344db678e5030153b03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Steel_Geb\xFCrsted"
+    second: {fileID: 2100000, guid: aa551e3795df92145abbd03624077f0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Steel_Geb\xFCrsted.001"
+    second: {fileID: 2100000, guid: 9b762bfdf3c0d6c4f957e3040a68fca4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Steel_Geb\xFCrsted.002"
+    second: {fileID: 2100000, guid: d6d9bbde0eb855c4fac71d1760b3e427, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: digi
+    second: {fileID: 2100000, guid: 2e90b15ba756c7b4bb5bdf1010c47e63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oben1A
+    second: {fileID: 2100000, guid: 660728fd6faef6a48b236b4218655b6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oben1A.Steel
+    second: {fileID: 2100000, guid: 785ae1eac23c04e418f2e768ea72c313, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pLASIK_ROT
+    second: {fileID: 2100000, guid: 641969a2ce441904ba6100ff2d65729b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pLASIK_Weis
+    second: {fileID: 2100000, guid: dbc543c73b93b4f47b3c388ddd280edb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pLASIK_Weis.001
+    second: {fileID: 2100000, guid: 086a1010ee26ca9489f7405b622fe50f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: serveimage platinex028
+    second: {fileID: 2100000, guid: 84c2174b7ac403f43aafcb900ca8d2ef, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
