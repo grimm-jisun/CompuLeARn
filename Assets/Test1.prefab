@@ -30,7 +30,6 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 7055114881532141302}
-  - {fileID: 3688784157109900662}
   m_Father: {fileID: 4365528357719543085}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
@@ -679,91 +678,3 @@ MonoBehaviour:
       sh[26]: 0
   m_PostProcessProfile: {fileID: 0}
   m_ExcludeFromSelectionUI: 0
---- !u!1001 &6061896460455190202
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 1353549345110228394}
-    m_Modifications:
-    - target: {fileID: 3373274190736323066, guid: e871510050486f746a5a03a83c76a551, type: 3}
-      propertyPath: m_Name
-      value: CPU
-      objectReference: {fileID: 0}
-    - target: {fileID: 7426751428036578252, guid: e871510050486f746a5a03a83c76a551, type: 3}
-      propertyPath: m_RootOrder
-      value: -1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7426751428036578252, guid: e871510050486f746a5a03a83c76a551, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7426751428036578252, guid: e871510050486f746a5a03a83c76a551, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.398
-      objectReference: {fileID: 0}
-    - target: {fileID: 7426751428036578252, guid: e871510050486f746a5a03a83c76a551, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -0.071
-      objectReference: {fileID: 0}
-    - target: {fileID: 7426751428036578252, guid: e871510050486f746a5a03a83c76a551, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.7071068
-      objectReference: {fileID: 0}
-    - target: {fileID: 7426751428036578252, guid: e871510050486f746a5a03a83c76a551, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7426751428036578252, guid: e871510050486f746a5a03a83c76a551, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0.7071068
-      objectReference: {fileID: 0}
-    - target: {fileID: 7426751428036578252, guid: e871510050486f746a5a03a83c76a551, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7426751428036578252, guid: e871510050486f746a5a03a83c76a551, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7426751428036578252, guid: e871510050486f746a5a03a83c76a551, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 7426751428036578252, guid: e871510050486f746a5a03a83c76a551, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 3373274190736323066, guid: e871510050486f746a5a03a83c76a551, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 2353750987949908566}
-  m_SourcePrefab: {fileID: 100100000, guid: e871510050486f746a5a03a83c76a551, type: 3}
---- !u!4 &3688784157109900662 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 7426751428036578252, guid: e871510050486f746a5a03a83c76a551, type: 3}
-  m_PrefabInstance: {fileID: 6061896460455190202}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &8858696704597552960 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 3373274190736323066, guid: e871510050486f746a5a03a83c76a551, type: 3}
-  m_PrefabInstance: {fileID: 6061896460455190202}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &2353750987949908566
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8858696704597552960}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b1f5e43c34d485e49b8fb11e645cf481, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  rotateObjectScript: {fileID: 0}
-  activeGameObject: {fileID: 0}
