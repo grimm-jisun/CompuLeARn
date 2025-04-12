@@ -334,15 +334,15 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 07336f75c4b57624d91a706b507d7263, type: 3}
       propertyPath: m_Materials.Array.data[3]
       value: 
-      objectReference: {fileID: 2100000, guid: fcd817a63e967d64aa1c2cb0f7c2599c, type: 2}
+      objectReference: {fileID: 2100000, guid: a9e8fe61abb1d5d4ca3fa3a8f8c49dc7, type: 2}
     - target: {fileID: -7511558181221131132, guid: 07336f75c4b57624d91a706b507d7263, type: 3}
       propertyPath: m_Materials.Array.data[4]
       value: 
-      objectReference: {fileID: 2100000, guid: 8c99c0d784ea71d4384415f68f50290a, type: 2}
+      objectReference: {fileID: 2100000, guid: 16b59d4084850cd44a98049f36c8c124, type: 2}
     - target: {fileID: -7511558181221131132, guid: 07336f75c4b57624d91a706b507d7263, type: 3}
       propertyPath: m_Materials.Array.data[5]
       value: 
-      objectReference: {fileID: 2100000, guid: 04cadf099a083814ba0c1385dbbbafeb, type: 2}
+      objectReference: {fileID: 2100000, guid: a9e8fe61abb1d5d4ca3fa3a8f8c49dc7, type: 2}
     - target: {fileID: 919132149155446097, guid: 07336f75c4b57624d91a706b507d7263, type: 3}
       propertyPath: m_Name
       value: RAM

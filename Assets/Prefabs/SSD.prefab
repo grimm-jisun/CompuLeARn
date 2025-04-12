@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8727223708363658810}
   - component: {fileID: 4539497654849954004}
+  - component: {fileID: -4347644115261814358}
   m_Layer: 0
   m_Name: SSD
   m_TagString: SSD
@@ -54,6 +55,18 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.09114991, y: 0.0066058636, z: 0.061619192}
   m_Center: {x: 0.04340159, y: -0.35707635, z: 0.33941168}
+--- !u!114 &-4347644115261814358
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2950070035353599323}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7f5e8b418388e7489088a1e68eb192e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &3993356319426903631
 PrefabInstance:
   m_ObjectHideFlags: 0

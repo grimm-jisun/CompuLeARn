@@ -7,7 +7,7 @@ public class OutlineSelection : MonoBehaviour
     private Transform highlight;
     private Transform selection;
     private RaycastHit raycastHit;
-    private List<string> tagsToCheck = new List<string> { "SSD", "MOBO", "PSU", "CPU", "GPU", "Cooler", "RAM" };
+    private List<string> tagsToCheck = new List<string> { "SSD", "MOBO", "PSU", "CPU", "GPU", "Cooler", "RAM", "Case" };
 
     public RotateObject rotateObjectScript;
     public GameObject activeGameObject; // Reference to the GameObject to activate/deactivate
