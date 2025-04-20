@@ -8,13 +8,11 @@ TagManager:
   - CPU
   - MOBO
   - GPU
-  - SSD
   - Cooler
   - PSU
   - RAM
-  - HDD
-  - M.2 SSD
   - Case
+  - SD
   layers:
   - Default
   - TransparentFX

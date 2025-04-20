@@ -7,7 +7,7 @@ public class OutlineSelection : MonoBehaviour
     private Transform highlight;
     private Transform selection;
     private RaycastHit raycastHit;
-    private List<string> tagsToCheck = new List<string> { "SSD", "MOBO", "PSU", "CPU", "GPU", "Cooler", "RAM", "Case" };
+    private List<string> tagsToCheck = new List<string> { "SD", "MOBO", "PSU", "CPU", "GPU", "Cooler", "RAM", "Case" };
 
     public RotateObject rotateObjectScript;
     public GameObject activeGameObject; // Reference to the GameObject to activate/deactivate
@@ -48,7 +48,7 @@ public class OutlineSelection : MonoBehaviour
                 {
                     Outline outline = highlight.gameObject.AddComponent<Outline>();
                     outline.enabled = true;
-                    highlight.gameObject.GetComponent<Outline>().OutlineColor = Color.magenta;
+                    highlight.gameObject.GetComponent<Outline>().OutlineColor = Color.green;
                     highlight.gameObject.GetComponent<Outline>().OutlineWidth = 7.0f;
                 }
             }

@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: -4347644115261814358}
   m_Layer: 0
   m_Name: SSD
-  m_TagString: SSD
+  m_TagString: SD
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25,6 +25,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2950070035353599323}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -32,7 +33,6 @@ Transform:
   m_Children:
   - {fileID: 3522370262097795492}
   m_Father: {fileID: 0}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!65 &4539497654849954004
 BoxCollider:
@@ -53,8 +53,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.09114991, y: 0.0066058636, z: 0.061619192}
-  m_Center: {x: 0.04340159, y: -0.35707635, z: 0.33941168}
+  m_Size: {x: 0.09121104, y: 0.0071219904, z: 0.062627085}
+  m_Center: {x: 0.000045079738, y: -0.0027697138, z: 0.00023410097}
 --- !u!114 &-4347644115261814358
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -81,15 +81,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 302b673910091e74e8f73b5e418c52f2, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.04384025
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 302b673910091e74e8f73b5e418c52f2, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.35363752
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 302b673910091e74e8f73b5e418c52f2, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.33967626
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 302b673910091e74e8f73b5e418c52f2, type: 3}
       propertyPath: m_LocalRotation.w
